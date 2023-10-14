@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/blog
+      port: 27017
+      username:
+      password:
